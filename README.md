@@ -22,14 +22,16 @@
 
 **DAX used for KPIs**  
 > `Average = AVERAGE(Sales_Data[Price Per Unit]) -- (avg sale price)`
- 
-> `Total Quantity = SUM(Sales_Data[Units Sold])`  
- 
-> `Total Sales = SUMX(Sales_Data,Sales_Data[Units Sold]*Sales_Data[Price Per Unit])`
 
+> `Total Quantity = SUM(Sales_Data[Units Sold])`  
+
+> `Total Sales = SUMX(Sales_Data,Sales_Data[Units Sold]*Sales_Data[Price Per Unit])`
 
 > `Transactions = COUNTROWS(Sales_Data)`
 
+**Dashboard Preview**
+
+![Dashboard Preview](https://github.com/pramodsd160/motorola-mobile-sales-dashboard/blob/main/images/Moto%20Sales%20Dashboard.png)
 
 
 _Note:   
