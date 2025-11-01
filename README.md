@@ -1,9 +1,7 @@
 
 # 🔹 Motorola Mobile Sales Dashboard 📊 - PowerBI project.
 
-This project focuses on analyzing mobile phone sales data to track brand performance and customer trends
-
-**This dashboard provides a complete view of mobile sales performance with insights into:**
+**This project focuses on analyzing mobile phone sales data to track brand performance and customer trends**
 
 **The dashboard highlights KPIs:**
 
